@@ -1,1 +1,2 @@
 first log entry
+second log entry
